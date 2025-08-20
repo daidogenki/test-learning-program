@@ -1,0 +1,541 @@
+date,category,units,unit_price,region,sales_channel,customer_segment,revenue
+2025-01-01,Electronics,7,19990,North,Online,Small Business,139930
+2025-01-01,Groceries,7,250,East,Online,Consumer,1750
+2025-01-01,Clothing,5,3990,South,Online,Small Business,19950
+2025-01-01,Home & Kitchen,6,5990,North,Store,Consumer,35940
+2025-01-01,Sports,5,2990,North,Online,Consumer,14950
+2025-01-01,Beauty,7,1490,South,Online,Small Business,10430
+2025-01-02,Electronics,5,19990,South,Store,Consumer,99950
+2025-01-02,Groceries,5,250,West,Store,Consumer,1250
+2025-01-02,Clothing,10,3990,South,Store,Corporate,39900
+2025-01-02,Home & Kitchen,4,5990,East,Online,Consumer,23960
+2025-01-02,Sports,6,2990,East,Online,Consumer,17940
+2025-01-02,Beauty,6,1490,West,Online,Corporate,8940
+2025-01-03,Electronics,7,19990,East,Store,Consumer,139930
+2025-01-03,Groceries,6,250,West,Online,Corporate,1500
+2025-01-03,Clothing,11,3990,North,Store,Small Business,43890
+2025-01-03,Home & Kitchen,3,5990,East,Online,Small Business,17970
+2025-01-03,Sports,6,2990,North,Online,Small Business,17940
+2025-01-03,Beauty,5,1490,South,Store,Consumer,7450
+2025-01-04,Electronics,12,19990,South,Online,Corporate,239880
+2025-01-04,Groceries,6,250,East,Store,Small Business,1500
+2025-01-04,Clothing,5,3990,East,Online,Corporate,19950
+2025-01-04,Home & Kitchen,10,5990,East,Online,Small Business,59900
+2025-01-04,Sports,5,2990,East,Online,Small Business,14950
+2025-01-04,Beauty,7,1490,South,Online,Consumer,10430
+2025-01-05,Electronics,9,19990,West,Store,Corporate,179910
+2025-01-05,Groceries,4,250,South,Store,Consumer,1000
+2025-01-05,Clothing,5,3990,South,Online,Corporate,19950
+2025-01-05,Home & Kitchen,7,5990,West,Store,Consumer,41930
+2025-01-05,Sports,9,2990,South,Store,Consumer,26910
+2025-01-05,Beauty,11,1490,West,Store,Small Business,16390
+2025-01-06,Electronics,5,19990,West,Online,Corporate,99950
+2025-01-06,Groceries,3,250,South,Online,Small Business,750
+2025-01-06,Clothing,7,3990,East,Store,Small Business,27930
+2025-01-06,Home & Kitchen,8,5990,West,Store,Consumer,47920
+2025-01-06,Sports,10,2990,South,Store,Consumer,29900
+2025-01-06,Beauty,4,1490,North,Online,Consumer,5960
+2025-01-07,Electronics,7,19990,South,Store,Small Business,139930
+2025-01-07,Groceries,10,250,North,Store,Corporate,2500
+2025-01-07,Clothing,8,3990,West,Store,Small Business,31920
+2025-01-07,Home & Kitchen,13,5990,North,Online,Small Business,77870
+2025-01-07,Sports,9,2990,East,Store,Consumer,26910
+2025-01-07,Beauty,5,1490,East,Store,Consumer,7450
+2025-01-08,Electronics,2,19990,West,Online,Small Business,39980
+2025-01-08,Groceries,7,250,East,Online,Small Business,1750
+2025-01-08,Clothing,3,3990,North,Store,Small Business,11970
+2025-01-08,Home & Kitchen,10,5990,South,Online,Corporate,59900
+2025-01-08,Sports,6,2990,South,Online,Small Business,17940
+2025-01-08,Beauty,8,1490,East,Store,Consumer,11920
+2025-01-09,Electronics,7,19990,North,Store,Corporate,139930
+2025-01-09,Groceries,3,250,South,Online,Consumer,750
+2025-01-09,Clothing,7,3990,North,Online,Small Business,27930
+2025-01-09,Home & Kitchen,6,5990,West,Online,Small Business,35940
+2025-01-09,Sports,6,2990,South,Online,Small Business,17940
+2025-01-09,Beauty,6,1490,West,Online,Corporate,8940
+2025-01-10,Electronics,9,19990,West,Online,Small Business,179910
+2025-01-10,Groceries,2,250,South,Store,Corporate,500
+2025-01-10,Clothing,4,3990,East,Store,Small Business,15960
+2025-01-10,Home & Kitchen,5,5990,West,Online,Consumer,29950
+2025-01-10,Sports,12,2990,South,Online,Corporate,35880
+2025-01-10,Beauty,10,1490,North,Online,Small Business,14900
+2025-01-11,Electronics,5,19990,South,Online,Consumer,99950
+2025-01-11,Groceries,9,250,North,Online,Consumer,2250
+2025-01-11,Clothing,8,3990,North,Store,Consumer,31920
+2025-01-11,Home & Kitchen,6,5990,South,Store,Small Business,35940
+2025-01-11,Sports,6,2990,West,Online,Small Business,17940
+2025-01-11,Beauty,6,1490,South,Store,Consumer,8940
+2025-01-12,Electronics,10,19990,West,Store,Consumer,199900
+2025-01-12,Groceries,4,250,North,Online,Small Business,1000
+2025-01-12,Clothing,4,3990,West,Store,Corporate,15960
+2025-01-12,Home & Kitchen,10,5990,West,Store,Small Business,59900
+2025-01-12,Sports,6,2990,North,Online,Consumer,17940
+2025-01-12,Beauty,10,1490,West,Store,Consumer,14900
+2025-01-13,Electronics,8,19990,South,Online,Consumer,159920
+2025-01-13,Groceries,8,250,West,Online,Corporate,2000
+2025-01-13,Clothing,12,3990,South,Store,Corporate,47880
+2025-01-13,Home & Kitchen,5,5990,South,Online,Corporate,29950
+2025-01-13,Sports,9,2990,North,Online,Small Business,26910
+2025-01-13,Beauty,13,1490,North,Online,Consumer,19370
+2025-01-14,Electronics,7,19990,South,Store,Corporate,139930
+2025-01-14,Groceries,9,250,West,Online,Corporate,2250
+2025-01-14,Clothing,6,3990,North,Online,Corporate,23940
+2025-01-14,Home & Kitchen,9,5990,North,Store,Corporate,53910
+2025-01-14,Sports,10,2990,West,Store,Corporate,29900
+2025-01-14,Beauty,5,1490,West,Online,Consumer,7450
+2025-01-15,Electronics,4,19990,East,Online,Consumer,79960
+2025-01-15,Groceries,7,250,North,Store,Consumer,1750
+2025-01-15,Clothing,3,3990,North,Store,Small Business,11970
+2025-01-15,Home & Kitchen,3,5990,South,Online,Small Business,17970
+2025-01-15,Sports,6,2990,North,Online,Consumer,17940
+2025-01-15,Beauty,6,1490,North,Online,Corporate,8940
+2025-01-16,Electronics,6,19990,North,Online,Small Business,119940
+2025-01-16,Groceries,6,250,North,Online,Corporate,1500
+2025-01-16,Clothing,7,3990,East,Store,Consumer,27930
+2025-01-16,Home & Kitchen,5,5990,East,Online,Corporate,29950
+2025-01-16,Sports,5,2990,West,Online,Small Business,14950
+2025-01-16,Beauty,9,1490,East,Store,Corporate,13410
+2025-01-17,Electronics,6,19990,North,Online,Corporate,119940
+2025-01-17,Groceries,5,250,North,Online,Small Business,1250
+2025-01-17,Clothing,4,3990,South,Store,Consumer,15960
+2025-01-17,Home & Kitchen,7,5990,East,Online,Consumer,41930
+2025-01-17,Sports,10,2990,East,Store,Consumer,29900
+2025-01-17,Beauty,7,1490,West,Store,Small Business,10430
+2025-01-18,Electronics,5,19990,North,Store,Small Business,99950
+2025-01-18,Groceries,5,250,North,Online,Corporate,1250
+2025-01-18,Clothing,7,3990,North,Online,Small Business,27930
+2025-01-18,Home & Kitchen,11,5990,South,Store,Corporate,65890
+2025-01-18,Sports,7,2990,South,Store,Consumer,20930
+2025-01-18,Beauty,7,1490,East,Store,Corporate,10430
+2025-01-19,Electronics,9,19990,North,Online,Small Business,179910
+2025-01-19,Groceries,9,250,West,Store,Consumer,2250
+2025-01-19,Clothing,8,3990,North,Store,Consumer,31920
+2025-01-19,Home & Kitchen,6,5990,East,Online,Small Business,35940
+2025-01-19,Sports,6,2990,West,Store,Small Business,17940
+2025-01-19,Beauty,9,1490,North,Online,Consumer,13410
+2025-01-20,Electronics,8,19990,South,Online,Corporate,159920
+2025-01-20,Groceries,7,250,South,Store,Consumer,1750
+2025-01-20,Clothing,12,3990,North,Store,Corporate,47880
+2025-01-20,Home & Kitchen,9,5990,North,Store,Consumer,53910
+2025-01-20,Sports,3,2990,South,Online,Corporate,8970
+2025-01-20,Beauty,9,1490,West,Online,Consumer,13410
+2025-01-21,Electronics,5,19990,South,Online,Corporate,99950
+2025-01-21,Groceries,5,250,North,Online,Small Business,1250
+2025-01-21,Clothing,6,3990,East,Store,Small Business,23940
+2025-01-21,Home & Kitchen,8,5990,South,Store,Consumer,47920
+2025-01-21,Sports,4,2990,North,Store,Consumer,11960
+2025-01-21,Beauty,6,1490,West,Online,Consumer,8940
+2025-01-22,Electronics,7,19990,West,Store,Corporate,139930
+2025-01-22,Groceries,4,250,South,Online,Consumer,1000
+2025-01-22,Clothing,5,3990,South,Store,Corporate,19950
+2025-01-22,Home & Kitchen,3,5990,East,Online,Corporate,17970
+2025-01-22,Sports,5,2990,East,Store,Small Business,14950
+2025-01-22,Beauty,8,1490,East,Online,Consumer,11920
+2025-01-23,Electronics,3,19990,East,Online,Small Business,59970
+2025-01-23,Groceries,3,250,East,Online,Consumer,750
+2025-01-23,Clothing,9,3990,West,Store,Small Business,35910
+2025-01-23,Home & Kitchen,8,5990,East,Store,Small Business,47920
+2025-01-23,Sports,7,2990,North,Store,Small Business,20930
+2025-01-23,Beauty,8,1490,South,Store,Consumer,11920
+2025-01-24,Electronics,4,19990,West,Online,Small Business,79960
+2025-01-24,Groceries,7,250,South,Store,Corporate,1750
+2025-01-24,Clothing,9,3990,North,Store,Small Business,35910
+2025-01-24,Home & Kitchen,4,5990,East,Online,Small Business,23960
+2025-01-24,Sports,6,2990,East,Store,Small Business,17940
+2025-01-24,Beauty,9,1490,West,Store,Corporate,13410
+2025-01-25,Electronics,4,19990,East,Online,Consumer,79960
+2025-01-25,Groceries,6,250,West,Store,Small Business,1500
+2025-01-25,Clothing,10,3990,South,Store,Corporate,39900
+2025-01-25,Home & Kitchen,6,5990,North,Store,Corporate,35940
+2025-01-25,Sports,10,2990,South,Store,Small Business,29900
+2025-01-25,Beauty,7,1490,East,Store,Corporate,10430
+2025-01-26,Electronics,9,19990,West,Online,Small Business,179910
+2025-01-26,Groceries,7,250,West,Online,Small Business,1750
+2025-01-26,Clothing,4,3990,North,Store,Small Business,15960
+2025-01-26,Home & Kitchen,6,5990,East,Online,Consumer,35940
+2025-01-26,Sports,5,2990,East,Online,Consumer,14950
+2025-01-26,Beauty,8,1490,South,Online,Consumer,11920
+2025-01-27,Electronics,11,19990,South,Store,Small Business,219890
+2025-01-27,Groceries,5,250,North,Store,Corporate,1250
+2025-01-27,Clothing,2,3990,South,Store,Corporate,7980
+2025-01-27,Home & Kitchen,8,5990,West,Online,Consumer,47920
+2025-01-27,Sports,10,2990,North,Online,Corporate,29900
+2025-01-27,Beauty,6,1490,South,Online,Small Business,8940
+2025-01-28,Electronics,8,19990,West,Online,Small Business,159920
+2025-01-28,Groceries,7,250,South,Online,Corporate,1750
+2025-01-28,Clothing,7,3990,South,Store,Small Business,27930
+2025-01-28,Home & Kitchen,10,5990,East,Store,Small Business,59900
+2025-01-28,Sports,6,2990,West,Store,Consumer,17940
+2025-01-28,Beauty,11,1490,West,Store,Corporate,16390
+2025-01-29,Electronics,13,19990,South,Store,Small Business,259870
+2025-01-29,Groceries,8,250,West,Online,Corporate,2000
+2025-01-29,Clothing,2,3990,West,Online,Small Business,7980
+2025-01-29,Home & Kitchen,9,5990,East,Online,Corporate,53910
+2025-01-29,Sports,9,2990,East,Store,Small Business,26910
+2025-01-29,Beauty,6,1490,North,Online,Consumer,8940
+2025-01-30,Electronics,8,19990,South,Store,Small Business,159920
+2025-01-30,Groceries,5,250,South,Online,Consumer,1250
+2025-01-30,Clothing,8,3990,West,Store,Corporate,31920
+2025-01-30,Home & Kitchen,5,5990,West,Store,Consumer,29950
+2025-01-30,Sports,8,2990,South,Store,Corporate,23920
+2025-01-30,Beauty,6,1490,North,Store,Corporate,8940
+2025-01-31,Electronics,13,19990,North,Store,Corporate,259870
+2025-01-31,Groceries,6,250,West,Store,Small Business,1500
+2025-01-31,Clothing,6,3990,South,Store,Consumer,23940
+2025-01-31,Home & Kitchen,6,5990,East,Store,Corporate,35940
+2025-01-31,Sports,5,2990,North,Store,Corporate,14950
+2025-01-31,Beauty,6,1490,West,Online,Corporate,8940
+2025-02-01,Electronics,8,19990,South,Online,Corporate,159920
+2025-02-01,Groceries,5,250,North,Online,Small Business,1250
+2025-02-01,Clothing,4,3990,West,Online,Corporate,15960
+2025-02-01,Home & Kitchen,5,5990,South,Online,Corporate,29950
+2025-02-01,Sports,5,2990,West,Store,Consumer,14950
+2025-02-01,Beauty,10,1490,West,Store,Corporate,14900
+2025-02-02,Electronics,7,19990,West,Store,Corporate,139930
+2025-02-02,Groceries,6,250,East,Online,Corporate,1500
+2025-02-02,Clothing,11,3990,North,Online,Corporate,43890
+2025-02-02,Home & Kitchen,3,5990,South,Online,Small Business,17970
+2025-02-02,Sports,10,2990,North,Online,Consumer,29900
+2025-02-02,Beauty,12,1490,South,Online,Small Business,17880
+2025-02-03,Electronics,8,19990,South,Online,Consumer,159920
+2025-02-03,Groceries,9,250,West,Online,Small Business,2250
+2025-02-03,Clothing,7,3990,South,Store,Small Business,27930
+2025-02-03,Home & Kitchen,6,5990,East,Store,Consumer,35940
+2025-02-03,Sports,7,2990,North,Online,Corporate,20930
+2025-02-03,Beauty,4,1490,North,Online,Corporate,5960
+2025-02-04,Electronics,9,19990,West,Store,Small Business,179910
+2025-02-04,Groceries,5,250,South,Online,Small Business,1250
+2025-02-04,Clothing,6,3990,South,Online,Small Business,23940
+2025-02-04,Home & Kitchen,4,5990,East,Online,Small Business,23960
+2025-02-04,Sports,9,2990,North,Store,Small Business,26910
+2025-02-04,Beauty,7,1490,West,Store,Consumer,10430
+2025-02-05,Electronics,12,19990,East,Online,Corporate,239880
+2025-02-05,Groceries,8,250,West,Online,Corporate,2000
+2025-02-05,Clothing,11,3990,East,Store,Small Business,43890
+2025-02-05,Home & Kitchen,10,5990,South,Store,Consumer,59900
+2025-02-05,Sports,7,2990,East,Store,Corporate,20930
+2025-02-05,Beauty,6,1490,West,Store,Corporate,8940
+2025-02-06,Electronics,6,19990,South,Online,Corporate,119940
+2025-02-06,Groceries,11,250,West,Online,Corporate,2750
+2025-02-06,Clothing,2,3990,West,Store,Consumer,7980
+2025-02-06,Home & Kitchen,8,5990,West,Store,Consumer,47920
+2025-02-06,Sports,7,2990,West,Online,Corporate,20930
+2025-02-06,Beauty,6,1490,East,Store,Corporate,8940
+2025-02-07,Electronics,7,19990,East,Online,Small Business,139930
+2025-02-07,Groceries,10,250,South,Online,Consumer,2500
+2025-02-07,Clothing,8,3990,West,Store,Small Business,31920
+2025-02-07,Home & Kitchen,8,5990,South,Store,Small Business,47920
+2025-02-07,Sports,6,2990,West,Store,Consumer,17940
+2025-02-07,Beauty,5,1490,North,Store,Consumer,7450
+2025-02-08,Electronics,8,19990,West,Online,Corporate,159920
+2025-02-08,Groceries,8,250,East,Store,Small Business,2000
+2025-02-08,Clothing,4,3990,East,Store,Small Business,15960
+2025-02-08,Home & Kitchen,4,5990,East,Store,Small Business,23960
+2025-02-08,Sports,7,2990,West,Store,Corporate,20930
+2025-02-08,Beauty,10,1490,East,Online,Consumer,14900
+2025-02-09,Electronics,7,19990,South,Store,Consumer,139930
+2025-02-09,Groceries,9,250,South,Online,Consumer,2250
+2025-02-09,Clothing,9,3990,West,Store,Small Business,35910
+2025-02-09,Home & Kitchen,6,5990,East,Online,Consumer,35940
+2025-02-09,Sports,6,2990,East,Online,Corporate,17940
+2025-02-09,Beauty,10,1490,South,Store,Consumer,14900
+2025-02-10,Electronics,9,19990,South,Store,Consumer,179910
+2025-02-10,Groceries,8,250,North,Store,Small Business,2000
+2025-02-10,Clothing,8,3990,South,Store,Consumer,31920
+2025-02-10,Home & Kitchen,3,5990,North,Store,Corporate,17970
+2025-02-10,Sports,8,2990,West,Store,Corporate,23920
+2025-02-10,Beauty,6,1490,South,Online,Corporate,8940
+2025-02-11,Electronics,4,19990,West,Online,Consumer,79960
+2025-02-11,Groceries,6,250,West,Store,Consumer,1500
+2025-02-11,Clothing,5,3990,North,Online,Consumer,19950
+2025-02-11,Home & Kitchen,9,5990,East,Online,Consumer,53910
+2025-02-11,Sports,9,2990,North,Store,Small Business,26910
+2025-02-11,Beauty,4,1490,South,Store,Corporate,5960
+2025-02-12,Electronics,5,19990,West,Store,Small Business,99950
+2025-02-12,Groceries,8,250,West,Store,Small Business,2000
+2025-02-12,Clothing,5,3990,North,Online,Consumer,19950
+2025-02-12,Home & Kitchen,12,5990,South,Store,Small Business,71880
+2025-02-12,Sports,6,2990,North,Online,Consumer,17940
+2025-02-12,Beauty,7,1490,South,Online,Consumer,10430
+2025-02-13,Electronics,5,19990,North,Store,Corporate,99950
+2025-02-13,Groceries,4,250,West,Store,Consumer,1000
+2025-02-13,Clothing,8,3990,South,Store,Small Business,31920
+2025-02-13,Home & Kitchen,5,5990,East,Store,Consumer,29950
+2025-02-13,Sports,2,2990,South,Store,Small Business,5980
+2025-02-13,Beauty,7,1490,South,Store,Consumer,10430
+2025-02-14,Electronics,8,19990,South,Online,Corporate,159920
+2025-02-14,Groceries,10,250,South,Online,Consumer,2500
+2025-02-14,Clothing,7,3990,South,Store,Small Business,27930
+2025-02-14,Home & Kitchen,11,5990,East,Store,Consumer,65890
+2025-02-14,Sports,9,2990,West,Store,Small Business,26910
+2025-02-14,Beauty,6,1490,West,Store,Small Business,8940
+2025-02-15,Electronics,12,19990,West,Store,Consumer,239880
+2025-02-15,Groceries,3,250,North,Store,Small Business,750
+2025-02-15,Clothing,8,3990,East,Store,Consumer,31920
+2025-02-15,Home & Kitchen,6,5990,North,Online,Small Business,35940
+2025-02-15,Sports,6,2990,North,Store,Small Business,17940
+2025-02-15,Beauty,7,1490,North,Online,Corporate,10430
+2025-02-16,Electronics,7,19990,West,Store,Consumer,139930
+2025-02-16,Groceries,8,250,West,Store,Consumer,2000
+2025-02-16,Clothing,10,3990,West,Store,Corporate,39900
+2025-02-16,Home & Kitchen,7,5990,East,Store,Small Business,41930
+2025-02-16,Sports,4,2990,North,Online,Corporate,11960
+2025-02-16,Beauty,10,1490,West,Store,Corporate,14900
+2025-02-17,Electronics,8,19990,West,Online,Corporate,159920
+2025-02-17,Groceries,2,250,North,Store,Corporate,500
+2025-02-17,Clothing,10,3990,East,Online,Corporate,39900
+2025-02-17,Home & Kitchen,5,5990,North,Store,Corporate,29950
+2025-02-17,Sports,8,2990,North,Online,Small Business,23920
+2025-02-17,Beauty,5,1490,East,Store,Small Business,7450
+2025-02-18,Electronics,6,19990,West,Online,Consumer,119940
+2025-02-18,Groceries,6,250,East,Online,Corporate,1500
+2025-02-18,Clothing,5,3990,West,Store,Consumer,19950
+2025-02-18,Home & Kitchen,6,5990,North,Online,Small Business,35940
+2025-02-18,Sports,7,2990,South,Store,Small Business,20930
+2025-02-18,Beauty,8,1490,North,Store,Consumer,11920
+2025-02-19,Electronics,6,19990,South,Online,Corporate,119940
+2025-02-19,Groceries,6,250,North,Online,Corporate,1500
+2025-02-19,Clothing,6,3990,East,Store,Corporate,23940
+2025-02-19,Home & Kitchen,7,5990,West,Store,Consumer,41930
+2025-02-19,Sports,6,2990,West,Online,Corporate,17940
+2025-02-19,Beauty,9,1490,South,Online,Consumer,13410
+2025-02-20,Electronics,5,19990,East,Store,Corporate,99950
+2025-02-20,Groceries,8,250,East,Online,Corporate,2000
+2025-02-20,Clothing,10,3990,East,Store,Consumer,39900
+2025-02-20,Home & Kitchen,11,5990,West,Store,Corporate,65890
+2025-02-20,Sports,6,2990,East,Store,Corporate,17940
+2025-02-20,Beauty,11,1490,East,Online,Small Business,16390
+2025-02-21,Electronics,4,19990,South,Store,Consumer,79960
+2025-02-21,Groceries,7,250,West,Online,Corporate,1750
+2025-02-21,Clothing,11,3990,West,Store,Corporate,43890
+2025-02-21,Home & Kitchen,6,5990,South,Store,Consumer,35940
+2025-02-21,Sports,7,2990,South,Store,Consumer,20930
+2025-02-21,Beauty,9,1490,West,Online,Small Business,13410
+2025-02-22,Electronics,8,19990,West,Online,Small Business,159920
+2025-02-22,Groceries,3,250,South,Store,Small Business,750
+2025-02-22,Clothing,12,3990,South,Online,Corporate,47880
+2025-02-22,Home & Kitchen,8,5990,East,Store,Small Business,47920
+2025-02-22,Sports,6,2990,West,Online,Corporate,17940
+2025-02-22,Beauty,7,1490,West,Store,Small Business,10430
+2025-02-23,Electronics,7,19990,West,Online,Small Business,139930
+2025-02-23,Groceries,3,250,North,Online,Small Business,750
+2025-02-23,Clothing,6,3990,East,Online,Small Business,23940
+2025-02-23,Home & Kitchen,8,5990,North,Store,Consumer,47920
+2025-02-23,Sports,7,2990,North,Store,Consumer,20930
+2025-02-23,Beauty,8,1490,East,Online,Consumer,11920
+2025-02-24,Electronics,10,19990,East,Online,Corporate,199900
+2025-02-24,Groceries,7,250,East,Store,Corporate,1750
+2025-02-24,Clothing,9,3990,South,Online,Small Business,35910
+2025-02-24,Home & Kitchen,4,5990,West,Online,Consumer,23960
+2025-02-24,Sports,7,2990,South,Online,Small Business,20930
+2025-02-24,Beauty,3,1490,West,Online,Corporate,4470
+2025-02-25,Electronics,2,19990,South,Online,Corporate,39980
+2025-02-25,Groceries,3,250,East,Store,Corporate,750
+2025-02-25,Clothing,7,3990,North,Store,Corporate,27930
+2025-02-25,Home & Kitchen,9,5990,South,Online,Corporate,53910
+2025-02-25,Sports,8,2990,East,Store,Small Business,23920
+2025-02-25,Beauty,4,1490,West,Store,Corporate,5960
+2025-02-26,Electronics,4,19990,East,Online,Corporate,79960
+2025-02-26,Groceries,7,250,West,Online,Consumer,1750
+2025-02-26,Clothing,4,3990,West,Store,Small Business,15960
+2025-02-26,Home & Kitchen,7,5990,East,Store,Consumer,41930
+2025-02-26,Sports,8,2990,West,Store,Consumer,23920
+2025-02-26,Beauty,3,1490,North,Store,Corporate,4470
+2025-02-27,Electronics,5,19990,South,Store,Consumer,99950
+2025-02-27,Groceries,9,250,South,Store,Small Business,2250
+2025-02-27,Clothing,10,3990,South,Online,Small Business,39900
+2025-02-27,Home & Kitchen,8,5990,North,Store,Corporate,47920
+2025-02-27,Sports,5,2990,North,Store,Small Business,14950
+2025-02-27,Beauty,6,1490,South,Online,Corporate,8940
+2025-02-28,Electronics,8,19990,East,Store,Consumer,159920
+2025-02-28,Groceries,6,250,South,Online,Small Business,1500
+2025-02-28,Clothing,3,3990,East,Store,Consumer,11970
+2025-02-28,Home & Kitchen,4,5990,East,Store,Corporate,23960
+2025-02-28,Sports,11,2990,East,Online,Corporate,32890
+2025-02-28,Beauty,8,1490,North,Online,Consumer,11920
+2025-03-01,Electronics,5,19990,West,Store,Consumer,99950
+2025-03-01,Groceries,7,250,West,Online,Corporate,1750
+2025-03-01,Clothing,10,3990,North,Store,Corporate,39900
+2025-03-01,Home & Kitchen,5,5990,East,Store,Small Business,29950
+2025-03-01,Sports,10,2990,East,Online,Small Business,29900
+2025-03-01,Beauty,10,1490,South,Store,Consumer,14900
+2025-03-02,Electronics,11,19990,East,Online,Small Business,219890
+2025-03-02,Groceries,9,250,North,Store,Small Business,2250
+2025-03-02,Clothing,6,3990,East,Store,Consumer,23940
+2025-03-02,Home & Kitchen,7,5990,South,Online,Consumer,41930
+2025-03-02,Sports,5,2990,East,Store,Consumer,14950
+2025-03-02,Beauty,5,1490,North,Online,Small Business,7450
+2025-03-03,Electronics,11,19990,South,Store,Corporate,219890
+2025-03-03,Groceries,5,250,East,Store,Small Business,1250
+2025-03-03,Clothing,5,3990,South,Store,Small Business,19950
+2025-03-03,Home & Kitchen,8,5990,North,Store,Small Business,47920
+2025-03-03,Sports,4,2990,West,Store,Consumer,11960
+2025-03-03,Beauty,9,1490,East,Online,Corporate,13410
+2025-03-04,Electronics,9,19990,West,Online,Corporate,179910
+2025-03-04,Groceries,8,250,North,Store,Small Business,2000
+2025-03-04,Clothing,6,3990,East,Online,Corporate,23940
+2025-03-04,Home & Kitchen,5,5990,East,Online,Consumer,29950
+2025-03-04,Sports,1,2990,West,Online,Small Business,2990
+2025-03-04,Beauty,5,1490,South,Online,Consumer,7450
+2025-03-05,Electronics,3,19990,East,Online,Consumer,59970
+2025-03-05,Groceries,5,250,South,Online,Small Business,1250
+2025-03-05,Clothing,9,3990,South,Online,Consumer,35910
+2025-03-05,Home & Kitchen,6,5990,East,Online,Small Business,35940
+2025-03-05,Sports,9,2990,North,Store,Consumer,26910
+2025-03-05,Beauty,7,1490,South,Store,Consumer,10430
+2025-03-06,Electronics,5,19990,North,Online,Consumer,99950
+2025-03-06,Groceries,10,250,North,Store,Consumer,2500
+2025-03-06,Clothing,7,3990,East,Online,Consumer,27930
+2025-03-06,Home & Kitchen,7,5990,East,Online,Consumer,41930
+2025-03-06,Sports,5,2990,West,Online,Small Business,14950
+2025-03-06,Beauty,3,1490,North,Store,Corporate,4470
+2025-03-07,Electronics,7,19990,East,Online,Corporate,139930
+2025-03-07,Groceries,10,250,South,Online,Small Business,2500
+2025-03-07,Clothing,4,3990,East,Store,Small Business,15960
+2025-03-07,Home & Kitchen,3,5990,North,Online,Corporate,17970
+2025-03-07,Sports,5,2990,West,Store,Small Business,14950
+2025-03-07,Beauty,8,1490,North,Store,Small Business,11920
+2025-03-08,Electronics,5,19990,West,Online,Consumer,99950
+2025-03-08,Groceries,5,250,East,Online,Consumer,1250
+2025-03-08,Clothing,9,3990,South,Store,Small Business,35910
+2025-03-08,Home & Kitchen,6,5990,East,Store,Small Business,35940
+2025-03-08,Sports,9,2990,East,Store,Small Business,26910
+2025-03-08,Beauty,5,1490,West,Online,Small Business,7450
+2025-03-09,Electronics,7,19990,North,Online,Corporate,139930
+2025-03-09,Groceries,7,250,West,Online,Corporate,1750
+2025-03-09,Clothing,4,3990,East,Store,Corporate,15960
+2025-03-09,Home & Kitchen,8,5990,West,Online,Corporate,47920
+2025-03-09,Sports,9,2990,West,Store,Small Business,26910
+2025-03-09,Beauty,12,1490,East,Store,Consumer,17880
+2025-03-10,Electronics,9,19990,West,Online,Consumer,179910
+2025-03-10,Groceries,4,250,North,Online,Corporate,1000
+2025-03-10,Clothing,7,3990,North,Store,Consumer,27930
+2025-03-10,Home & Kitchen,4,5990,North,Store,Small Business,23960
+2025-03-10,Sports,7,2990,North,Store,Corporate,20930
+2025-03-10,Beauty,10,1490,West,Online,Corporate,14900
+2025-03-11,Electronics,6,19990,East,Store,Consumer,119940
+2025-03-11,Groceries,3,250,South,Online,Small Business,750
+2025-03-11,Clothing,9,3990,West,Online,Consumer,35910
+2025-03-11,Home & Kitchen,10,5990,East,Store,Consumer,59900
+2025-03-11,Sports,6,2990,East,Online,Corporate,17940
+2025-03-11,Beauty,8,1490,North,Store,Consumer,11920
+2025-03-12,Electronics,8,19990,South,Store,Small Business,159920
+2025-03-12,Groceries,3,250,East,Store,Corporate,750
+2025-03-12,Clothing,6,3990,North,Online,Consumer,23940
+2025-03-12,Home & Kitchen,3,5990,West,Online,Consumer,17970
+2025-03-12,Sports,10,2990,North,Online,Small Business,29900
+2025-03-12,Beauty,11,1490,South,Store,Corporate,16390
+2025-03-13,Electronics,7,19990,West,Store,Consumer,139930
+2025-03-13,Groceries,7,250,East,Store,Small Business,1750
+2025-03-13,Clothing,14,3990,East,Online,Consumer,55860
+2025-03-13,Home & Kitchen,11,5990,South,Online,Small Business,65890
+2025-03-13,Sports,6,2990,North,Online,Corporate,17940
+2025-03-13,Beauty,9,1490,West,Store,Corporate,13410
+2025-03-14,Electronics,8,19990,West,Store,Corporate,159920
+2025-03-14,Groceries,8,250,South,Online,Corporate,2000
+2025-03-14,Clothing,6,3990,West,Online,Corporate,23940
+2025-03-14,Home & Kitchen,5,5990,West,Store,Consumer,29950
+2025-03-14,Sports,7,2990,South,Store,Small Business,20930
+2025-03-14,Beauty,5,1490,North,Online,Consumer,7450
+2025-03-15,Electronics,8,19990,East,Online,Consumer,159920
+2025-03-15,Groceries,5,250,East,Store,Corporate,1250
+2025-03-15,Clothing,7,3990,North,Online,Corporate,27930
+2025-03-15,Home & Kitchen,6,5990,West,Online,Consumer,35940
+2025-03-15,Sports,6,2990,West,Online,Small Business,17940
+2025-03-15,Beauty,4,1490,East,Online,Corporate,5960
+2025-03-16,Electronics,5,19990,North,Store,Consumer,99950
+2025-03-16,Groceries,11,250,West,Online,Corporate,2750
+2025-03-16,Clothing,9,3990,West,Store,Small Business,35910
+2025-03-16,Home & Kitchen,3,5990,West,Store,Consumer,17970
+2025-03-16,Sports,8,2990,West,Online,Corporate,23920
+2025-03-16,Beauty,3,1490,South,Store,Small Business,4470
+2025-03-17,Electronics,7,19990,East,Online,Corporate,139930
+2025-03-17,Groceries,7,250,North,Online,Corporate,1750
+2025-03-17,Clothing,4,3990,West,Online,Corporate,15960
+2025-03-17,Home & Kitchen,4,5990,East,Store,Consumer,23960
+2025-03-17,Sports,12,2990,East,Online,Consumer,35880
+2025-03-17,Beauty,8,1490,North,Online,Corporate,11920
+2025-03-18,Electronics,9,19990,East,Online,Consumer,179910
+2025-03-18,Groceries,8,250,North,Online,Corporate,2000
+2025-03-18,Clothing,4,3990,South,Online,Small Business,15960
+2025-03-18,Home & Kitchen,5,5990,South,Online,Consumer,29950
+2025-03-18,Sports,5,2990,West,Store,Small Business,14950
+2025-03-18,Beauty,7,1490,West,Store,Small Business,10430
+2025-03-19,Electronics,6,19990,East,Online,Corporate,119940
+2025-03-19,Groceries,12,250,North,Store,Corporate,3000
+2025-03-19,Clothing,11,3990,East,Store,Small Business,43890
+2025-03-19,Home & Kitchen,6,5990,North,Store,Small Business,35940
+2025-03-19,Sports,2,2990,North,Store,Corporate,5980
+2025-03-19,Beauty,6,1490,West,Online,Consumer,8940
+2025-03-20,Electronics,5,19990,East,Store,Consumer,99950
+2025-03-20,Groceries,5,250,North,Store,Corporate,1250
+2025-03-20,Clothing,8,3990,North,Store,Small Business,31920
+2025-03-20,Home & Kitchen,10,5990,South,Store,Small Business,59900
+2025-03-20,Sports,5,2990,West,Online,Consumer,14950
+2025-03-20,Beauty,7,1490,West,Online,Corporate,10430
+2025-03-21,Electronics,7,19990,North,Online,Consumer,139930
+2025-03-21,Groceries,6,250,South,Store,Corporate,1500
+2025-03-21,Clothing,9,3990,South,Store,Corporate,35910
+2025-03-21,Home & Kitchen,7,5990,East,Store,Corporate,41930
+2025-03-21,Sports,5,2990,East,Online,Small Business,14950
+2025-03-21,Beauty,8,1490,East,Online,Corporate,11920
+2025-03-22,Electronics,6,19990,North,Store,Corporate,119940
+2025-03-22,Groceries,3,250,East,Online,Corporate,750
+2025-03-22,Clothing,3,3990,North,Online,Corporate,11970
+2025-03-22,Home & Kitchen,11,5990,East,Store,Consumer,65890
+2025-03-22,Sports,11,2990,North,Store,Small Business,32890
+2025-03-22,Beauty,8,1490,West,Store,Consumer,11920
+2025-03-23,Electronics,7,19990,North,Store,Small Business,139930
+2025-03-23,Groceries,7,250,East,Online,Corporate,1750
+2025-03-23,Clothing,7,3990,East,Online,Consumer,27930
+2025-03-23,Home & Kitchen,9,5990,East,Store,Consumer,53910
+2025-03-23,Sports,5,2990,South,Online,Consumer,14950
+2025-03-23,Beauty,4,1490,North,Store,Consumer,5960
+2025-03-24,Electronics,7,19990,North,Store,Small Business,139930
+2025-03-24,Groceries,8,250,South,Store,Consumer,2000
+2025-03-24,Clothing,8,3990,South,Online,Small Business,31920
+2025-03-24,Home & Kitchen,3,5990,South,Store,Consumer,17970
+2025-03-24,Sports,7,2990,West,Store,Small Business,20930
+2025-03-24,Beauty,9,1490,South,Store,Small Business,13410
+2025-03-25,Electronics,12,19990,East,Store,Consumer,239880
+2025-03-25,Groceries,9,250,South,Store,Corporate,2250
+2025-03-25,Clothing,10,3990,South,Store,Small Business,39900
+2025-03-25,Home & Kitchen,6,5990,West,Store,Corporate,35940
+2025-03-25,Sports,5,2990,West,Store,Consumer,14950
+2025-03-25,Beauty,11,1490,South,Online,Corporate,16390
+2025-03-26,Electronics,6,19990,North,Store,Corporate,119940
+2025-03-26,Groceries,3,250,North,Online,Corporate,750
+2025-03-26,Clothing,10,3990,North,Online,Corporate,39900
+2025-03-26,Home & Kitchen,9,5990,West,Online,Corporate,53910
+2025-03-26,Sports,7,2990,North,Online,Corporate,20930
+2025-03-26,Beauty,4,1490,East,Online,Corporate,5960
+2025-03-27,Electronics,4,19990,North,Store,Small Business,79960
+2025-03-27,Groceries,9,250,East,Online,Corporate,2250
+2025-03-27,Clothing,5,3990,North,Store,Consumer,19950
+2025-03-27,Home & Kitchen,4,5990,North,Store,Consumer,23960
+2025-03-27,Sports,5,2990,East,Online,Consumer,14950
+2025-03-27,Beauty,7,1490,North,Store,Corporate,10430
+2025-03-28,Electronics,6,19990,South,Store,Corporate,119940
+2025-03-28,Groceries,8,250,North,Online,Consumer,2000
+2025-03-28,Clothing,11,3990,East,Online,Consumer,43890
+2025-03-28,Home & Kitchen,9,5990,West,Online,Corporate,53910
+2025-03-28,Sports,8,2990,South,Store,Consumer,23920
+2025-03-28,Beauty,6,1490,North,Online,Corporate,8940
+2025-03-29,Electronics,6,19990,West,Online,Consumer,119940
+2025-03-29,Groceries,7,250,West,Online,Small Business,1750
+2025-03-29,Clothing,7,3990,South,Online,Corporate,27930
+2025-03-29,Home & Kitchen,4,5990,West,Online,Small Business,23960
+2025-03-29,Sports,8,2990,East,Online,Small Business,23920
+2025-03-29,Beauty,5,1490,West,Online,Small Business,7450
+2025-03-30,Electronics,8,19990,North,Store,Consumer,159920
+2025-03-30,Groceries,7,250,North,Store,Corporate,1750
+2025-03-30,Clothing,8,3990,North,Store,Corporate,31920
+2025-03-30,Home & Kitchen,5,5990,East,Online,Corporate,29950
+2025-03-30,Sports,4,2990,North,Store,Consumer,11960
+2025-03-30,Beauty,5,1490,North,Store,Consumer,7450
+2025-03-31,Electronics,7,19990,North,Store,Small Business,139930
+2025-03-31,Groceries,6,250,East,Online,Small Business,1500
+2025-03-31,Clothing,6,3990,West,Store,Small Business,23940
+2025-03-31,Home & Kitchen,13,5990,South,Online,Consumer,77870
+2025-03-31,Sports,7,2990,West,Online,Corporate,20930
+2025-03-31,Beauty,5,1490,South,Online,Consumer,7450
