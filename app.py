@@ -2,19 +2,65 @@ import pandas as pd
 import streamlit as st
 from datetime import datetime
 import plotly.express as px
+from api import get_weather_data
+
+st.title("天気予報ダッシュボード")
+
+city = st.selectbox("都市を選択", ["Tokyo", "Osaka", "Kyoto", "Yokohama"])
+
+if st.button("天気データを取得"):
+    with st.spinner("データを取得中..."):
+        try:
+            times, temps = get_weather_data(city)
+            
+            df = pd.DataFrame({
+                'time': pd.to_datetime(times),
+                'temperature': temps
+            })
+            
+            st.success(f"{city}の天気データを取得しました！")
+            
+            st.subheader("温度の時系列グラフ")
+            fig = px.line(df, x='time', y='temperature', 
+                         title=f'{city}の時間別気温予報',
+                         labels={'time': '時間', 'temperature': '気温 (°C)'})
+            st.plotly_chart(fig, use_container_width=True)
+            
+            st.subheader("統計情報")
+            col1, col2, col3, col4 = st.columns(4)
+            with col1:
+                st.metric("最高気温", f"{max(temps):.1f}°C")
+            with col2:
+                st.metric("最低気温", f"{min(temps):.1f}°C")
+            with col3:
+                st.metric("平均気温", f"{sum(temps)/len(temps):.1f}°C")
+            with col4:
+                st.metric("データ数", len(temps))
+            
+            st.subheader("詳細データ")
+            st.dataframe(df)
+            
+        except Exception as e:
+            st.error(f"エラーが発生しました: {e}")
+
+st.divider()
+
+# ─────────────────────────────
+# 元のダッシュボード
+# ─────────────────────────────
+st.title("📊 Sample Sales Dashboard")
 
 # ─────────────────────────────
 # データ読み込み
 # ─────────────────────────────
-df = pd.read_csv("data/sample_sales.csv", parse_dates=["date"])
+df_sales = pd.read_csv("data/sample_sales.csv", parse_dates=["date"])
 
 # ─────────────────────────────
 # UI ― フィルター類
 # ─────────────────────────────
-st.title("📊 Sample Sales Dashboard")
 
-min_date = df["date"].min().to_pydatetime()
-max_date = df["date"].max().to_pydatetime()
+min_date = df_sales["date"].min().to_pydatetime()
+max_date = df_sales["date"].max().to_pydatetime()
 
 date_range = st.slider(
     "期間を選択",
@@ -26,18 +72,18 @@ date_range = st.slider(
 
 cats = st.multiselect(
     "カテゴリを選択（複数可）",
-    options=df["category"].unique().tolist(),
-    default=df["category"].unique().tolist(),
+    options=df_sales["category"].unique().tolist(),
+    default=df_sales["category"].unique().tolist(),
 )
 regions = st.multiselect(
     "地域を選択（複数可）",
-    options=df["region"].unique().tolist(),
-    default=df["region"].unique().tolist(),
+    options=df_sales["region"].unique().tolist(),
+    default=df_sales["region"].unique().tolist(),
 )
 channels = st.multiselect(
     "チャネルを選択（複数可）",
-    options=df["sales_channel"].unique().tolist(),
-    default=df["sales_channel"].unique().tolist(),
+    options=df_sales["sales_channel"].unique().tolist(),
+    default=df_sales["sales_channel"].unique().tolist(),
 )
 
 # ─────────────────────────────
@@ -46,11 +92,11 @@ channels = st.multiselect(
 start_dt = pd.to_datetime(date_range[0])
 end_dt   = pd.to_datetime(date_range[1])
 
-df_filt = df[
-    (df["date"].between(start_dt, end_dt))
-    & (df["category"].isin(cats))
-    & (df["region"].isin(regions))
-    & (df["sales_channel"].isin(channels))
+df_filt = df_sales[
+    (df_sales["date"].between(start_dt, end_dt))
+    & (df_sales["category"].isin(cats))
+    & (df_sales["region"].isin(regions))
+    & (df_sales["sales_channel"].isin(channels))
 ]
 
 # ─────────────────────────────

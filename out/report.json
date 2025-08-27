@@ -1,0 +1,20 @@
+{
+  "total_chunks": 13,
+  "avg_token_count": 290.3076923076923,
+  "max_token_count": 380,
+  "avg_char_count": 272.61538461538464,
+  "max_char_count": 403,
+  "failed_chunks": 0,
+  "retry_count": 0,
+  "processing_time_seconds": 1.648446798324585,
+  "model_name": "text-embedding-3-small",
+  "input_path": "data/company_policies_rag_dataset.txt",
+  "output_path": "out/embeddings.jsonl",
+  "section_distribution": {
+    "work_leave": 4,
+    "it_security": 3,
+    "unknown": 4,
+    "general_rules": 2
+  },
+  "vector_dimensions": 1536
+}
